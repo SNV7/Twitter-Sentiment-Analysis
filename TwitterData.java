@@ -63,11 +63,11 @@ public class TwitterData {
 	
 	private String getSavedAccessTokenSecret() {
     	//Get saved access token secret
-    	return "OHYbWDMjhnOo7afXnWxsICedMM5D1gLKXt2CcjerpeZcK";
+    	return "";
     }//end method
    
     private String getSavedAccessToken() {
     	//Get saved access token 
-    	return "358014169-71hPraYQn9Bj8XuMJbZXTt4BwaW81MYEF11YjYsg";
+    	return "";
     }//end method
 }
