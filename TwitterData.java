@@ -7,8 +7,8 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 public class TwitterData {
-	private final static String CONSUMER_KEY = "YTQwATRZZJ12M6lYEeEQw";
-    private final static String CONSUMER_KEY_SECRET = "rNdnInD9Vmw83rM5iL2TbnUFGLRdg2pgMFAnb0f4E";
+	private final static String CONSUMER_KEY = "";
+    private final static String CONSUMER_KEY_SECRET = "";
     
     public ArrayList<String> search(String searchTerm) throws TwitterException, IOException{
 		//Get tweets and return an array of them
