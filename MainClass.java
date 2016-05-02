@@ -50,7 +50,7 @@ public class MainClass {
 	
 	public void writeToFile(String text) throws IOException{
 		//Write to txt file
-		String dataFile = "/Users/svelrith/Documents/workspace/TwitterNLP/src/data/test.txt";
+		String dataFile = "/Documents/workspace/TwitterNLP/src/data/test.txt";
 
 		//Writing to file
 		try {
